@@ -1,3 +1,4 @@
+a online shopping website demo for personal practice
 # app
 
 ## Project setup
